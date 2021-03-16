@@ -1,4 +1,4 @@
-# unity3d-addressable-extensions
+# reactive-addressable-extensions
 An extension library for the Addressables in a reactive way
 
 # Requirements
