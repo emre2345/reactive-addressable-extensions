@@ -1,6 +1,6 @@
 {
     "name": "ReactiveAddressableExtensions",
-    "rootNamespace": "",
+    "rootNamespace": "ReactiveAddressableExtensions",
     "references": [
         "Unity.Addressables",
         "Unity.ResourceManager",
